@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Raleway', sans-serif;
+}
+nav{
+    display: flex;
+    gap: 500px;
+    padding: 26px 40px 28px 70px;
+    justify-content:space-between;
+    align-items: center;
+   
+}
+ul{
+    display: flex;
+    gap: 90px;
+}
+li{
+    list-style: none;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+li a{
+    text-decoration: none;
+}
+.primary-color{
+    color: #FA4A0C;
+
+}
