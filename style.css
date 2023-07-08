@@ -14,8 +14,7 @@ nav{
     gap: 500px;
     padding: 26px 40px 28px 70px;
     justify-content:space-between;
-    align-items: center;
-   
+    align-items: center;  
 }
 ul{
     display: flex;
@@ -32,5 +31,50 @@ li a{
 }
 .primary-color{
     color: #FA4A0C;
-
+}
+.header{
+    background-color: #FFFFFF;
+    height: 674px;
+}
+.bannar{
+    color: #FFF;
+    text-align: center;
+    background-image: url("images/header\ coverpage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: 0px;
+}
+h3{
+    padding: 73px 660px 17px;
+}
+.same-font{
+    font-size: 24px;
+    font-weight: 700;
+}
+.main-header{
+    font-size: 58px;
+    font-weight: 700;
+    padding: 10px 34px;
+}
+h4{
+    margin-top: 27px;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 88px 48px 89px;
+}
+button{
+    color: #FFF;
+    width: 236px;
+    padding: 16px 0px;
+    border: none;
+    border-radius: 30px;
+}
+.button-1{
+    background-color: #FA4A0C;
+    margin-right: 34px;
+}
+.button-2{
+    background: transparent;
+    border: 1px solid #FFF;
 }
