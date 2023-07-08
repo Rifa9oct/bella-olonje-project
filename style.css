@@ -116,3 +116,54 @@ section{
     font-size: 24px;
     font-weight: 500px;
 }
+.ft-div{
+    text-align: center;
+    background-image: url("images/footer\ coverpage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+}
+.ft-div p{
+    margin: 20px 0px 60px;
+    color: #FFF;
+}
+.ft-div h2{
+    padding-top: 145px;
+    color: #FFF;
+}
+.ft-div button{
+    font-size: 16px;
+    font-weight: 700px;
+    text-align: center;
+    border-radius: 10px;
+}
+.ft-button-1{
+    width: 142px;
+    height: 64px;
+    background-color: #FA4A0C;
+    color: #FFF;
+    padding: 18px 31px;
+    margin-right: 16px;    
+}
+.ft-button-2{
+    width: 173px;
+    height: 60px;
+    padding: 16px 45px;
+    border: 1px solid #FFF;
+    background: transparent;
+}
+.social-link{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: 42px 115px 53px;
+}
+.link-img{
+    display: inline-block;
+    margin-right: 24px;
+}
+.subtitle{
+    color: #5C5C5C;
+    font-size: 12px;
+    font-weight: 700;;
+}
