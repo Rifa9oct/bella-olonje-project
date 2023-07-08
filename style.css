@@ -75,11 +75,12 @@ button{
 }
 .group-img-sec{
     height: 800px;
+    margin-top: -100px;
 }
 .group-img-sec img{
-    display: block;
     margin: 0px auto;
 }
+
 hr{
     margin: 128px auto 30px;
     width: 884px;
