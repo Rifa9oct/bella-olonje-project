@@ -32,35 +32,29 @@ li a{
 .primary-color{
     color: #FA4A0C;
 }
-.header{
-    background-color: #FFFFFF;
-    height: 674px;
-}
 .bannar{
     color: #FFF;
     text-align: center;
     background-image: url("images/header\ coverpage.png");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
-    margin-top: 0px;
+    height: 619px;
 }
-h3{
+.bannar h3{
     padding: 73px 660px 17px;
 }
 .same-font{
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 700px;
 }
 .main-header{
     font-size: 58px;
-    font-weight: 700;
+    font-weight: 700px;
     padding: 10px 34px;
 }
-h4{
+.bannar h4{
     margin-top: 27px;
     font-size: 24px;
-    font-weight: 500;
     padding: 10px 88px 48px 89px;
 }
 button{
@@ -77,4 +71,56 @@ button{
 .button-2{
     background: transparent;
     border: 1px solid #FFF;
+}
+.group-img-sec{
+    height: 800px;
+}
+.group-img-sec img{
+    display: block;
+    margin: 0px auto;
+}
+hr{
+    margin: 128px auto 30px;
+    width: 884px;
+    height: 3px;
+    background: #E4E4E4;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    font-weight: 600px;
+}
+.account-sec{
+    height: 806px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.account-photo{
+    margin: 78px 100px 204px 145px;
+    width: 302px;
+    height: 525px;
+}
+.description h3{
+    font-size: 24px;
+    font-weight: 700px;
+    margin-bottom: 7px;
+}
+h2{
+    color:  #252B42;
+    padding: 10px 0px;
+    font-size: 40px;
+    font-weight: 700px;
+}
+.description h4{
+    padding: 10px 0px;
+    color:  #737373;
+    font-size: 24px;
+    font-weight: 500px;
+}
+.account-container text{
+    padding: 83px 72px 144px 171px;
+    width: 568px;
+    flex-direction: column;
+    align-items: flex-start;
 }
