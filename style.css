@@ -94,7 +94,7 @@ h1{
 section{
     height: 806px;
 }
-.account-sec{
+.display{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -115,9 +115,4 @@ section{
     color:  #737373;
     font-size: 24px;
     font-weight: 500px;
-}
-.explore-section{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
 }
