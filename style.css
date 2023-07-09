@@ -37,6 +37,7 @@ li a{
     color: #FFF;
     text-align: center;
     background-image: url("images/header\ coverpage.png");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -116,6 +117,7 @@ section{
 .ft-div{
     text-align: center;
     background-image: url("images/footer\ coverpage.png");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 620px;
